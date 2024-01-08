@@ -1,2 +1,2 @@
-# Web-D This will contain my everyday stuff of web d 
+# Web-D 
 #great code #build websites from starch every day my darlo
